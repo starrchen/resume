@@ -1,2 +1,4 @@
 I was born.
 I will die.
+
+That's the gist of it.
